@@ -1,4 +1,4 @@
-# vue3.0-shop
+# vue3.0-shop fro study
 
 ## Project setup
 ```
